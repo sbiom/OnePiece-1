@@ -1,2 +1,3 @@
 # OnePiece An to vlepeis apada skype
-# to katevasa, alla nomizw den mporw na anevasw allages, o master dinei dikaiwmata
+# Nai an to vlepeis
+# edeixne coflicting giati kai oi duo anevasame xwris na katevasoume allages
